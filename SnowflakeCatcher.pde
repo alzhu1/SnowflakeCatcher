@@ -9,6 +9,7 @@ void setup()
     jeffers[i] = new Snowflake();
   }
   background(0);
+  textAlign(CENTER);
 }
 void draw()
 {
